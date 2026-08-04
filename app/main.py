@@ -45,3 +45,4 @@ class CarWashStation:
             (total_score + rate) / self.count_of_ratings, 1
         )
 # car wash update final 2
+
