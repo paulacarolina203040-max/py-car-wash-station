@@ -44,3 +44,4 @@ class CarWashStation:
         self.average_rating = round(
             (total_score + rate) / self.count_of_ratings, 1
         )
+# car wash update
